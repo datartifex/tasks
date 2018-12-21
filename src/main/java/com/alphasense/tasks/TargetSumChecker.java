@@ -15,7 +15,7 @@ public class TargetSumChecker extends TaskHelper {
     private final static Logger log = Logger.getLogger(TargetSumChecker.class);
 
     /*
-     * Time complexity: worst case O(k x N) / ~O(N).
+     * Time complexity: worst case O(N).
      */
     public boolean check(final int[] array, final int target) throws IOException {
         if (array == null || array.length == 0) {
