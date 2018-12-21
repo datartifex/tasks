@@ -8,7 +8,7 @@
 
 # How to start the application
 
-1. Download the project `git clone https://github.com/datartifex/placester.git`  
-1. Enter the project root `cd placester`
+1. Download the project `git clone https://github.com/datartifex/tasks.git`  
+1. Enter the project root `cd tasks`
 1. Run `mvn clean install` to build the application
 1. Start the application with `mvn exec:java`
